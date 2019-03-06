@@ -1,5 +1,6 @@
 {
   "projects": {
-    "production": "good-books-37829"
+    "production": "good-books-37829",
+    "default": "good-books-37829"
   }
 }
