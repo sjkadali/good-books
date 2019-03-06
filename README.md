@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project done using reactjs based on some online tutorials.
 
 ## Live Demo: https://good-books-f2cd9.firebaseapp.com/
 
