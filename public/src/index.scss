@@ -1,0 +1,29 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$mainBlack: #222;
+$mainGreen: #82b340;
+$mainWhite: #fff;
+$mainGrey: #555;
+$lightGrey: #aca09c;
+
+body{
+    background: #aab2e0;
+    color: $mainGrey;
+    font-family: 'Open Sans', sans-serif;
+    }
+
+.home{
+    padding: 5rem 5rem;
+    font-size: 2rem;
+}
+
+.about{
+    padding: 10rem 10rem 10rem 10rem;
+    font-size: 2rem;
+    align-content: center;
+}
