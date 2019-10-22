@@ -1,4 +1,4 @@
-This is a project done using reactjs based on some online tutorials.
+This is a project done using **Reactjs** and **Node** based on some online tutorials.
 
 ## Live Demo: https://good-books-f2cd9.firebaseapp.com/
 
