@@ -1,7 +1,5 @@
 This is a project done using **Reactjs** and **Node** based on some online tutorials.
 
-## Live Demo: https://good-books-f2cd9.firebaseapp.com/
-
 ## Available Scripts
 
 In the project directory, you can run:
